@@ -1,0 +1,108 @@
+<!--
+
+Student Name: Zabin Tasnim Rumman
+Id: 171-15-892
+Section: PC-D
+
+                            Online HTML Compiler.
+                Code, Compile, Run and Debug HTML program online.
+Write your code in this editor and press "Run" button to execute it.
+
+-->
+
+<html>
+<body>
+<h1 align="center" style= "color:blue">Portfolio</h1>
+<hr>
+<p> I am very simple. I move in a very normal way. And i am perfect for myself & that's more than enough.  </p>
+<h3>Name: Zabin Tasnim Rumman</h3>
+        <h3>Gender: Female</h3>
+        <h3>Age: 23</h3>
+        <h3>Occupation: Study</h3>
+        <h3>Address: Rangpur, Dhaka, Bangladesh</h3>
+        
+         <br>
+        <a href="https://www.facebook.com/zabintasnim.labonno/photos">facebook</a><br><img src="https://scontent.fcgp17-1.fna.fbcdn.net/v/t1.6435-9/46955639_537617326753774_1424215111018479616_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=174925&_nc_ohc=QO4evBl68s0AX-WbCoh&_nc_ht=scontent.fcgp17-1.fna&oh=23884f5f634f9239c809cbde9ccc6370&oe=61423636"width="138" height="142">
+        
+       
+        <u><h3 style= "color:green">Favourite Hobby</h3></u>
+        <ul>
+  <li>Crafting </li>
+  <li>Embroidery</li>
+  <li>Tree plant</li>
+</ul>
+<br>
+
+ <u><h3 style= "color:Blue">Choice</h3></u>
+<ol>
+  <li>Respectful</li>
+  <li>Honesty</li>
+  <li>Peaceful</li>
+</ol>
+
+<b>Study Background:</b>
+
+<table border="1" style="width:100%">
+  <tr>
+    <th style= "color:blue">Exam name</th>
+    <th style= "color:blue">Board</th>
+    <th style= "color:blue">GPA</th>
+  </tr>
+  <tr>
+    <td>SSC</td>
+    <td>Dinajpur</td>
+    <td>4.96</td>
+  </tr>
+  <tr>
+    <td>HSC</td>
+    <td>Dinajpur</td>
+    <td>4.84</td>
+  
+</table>
+
+<p>Running Student of <b>Daffodil International University.</b> </p>
+<p>Department of <b>Computer Science and Engineering.</b> </p><br><br><br>
+
+
+<table align="center">
+    
+<h3 align="center" style= "color:green">Submit Your Feedback Here</h1>
+<tr>
+    <td>User Name</td>
+    <td><input type="text" placeholder="Enter your user name"></td>
+</tr>
+<tr>
+    <td>Email</td>
+    <td><input type="email" placeholder="Enter your email"></td>
+</tr>
+<tr>
+    <td>Phone Number</td>
+    <td><input type="number" placeholder="Enter your phone number"></td>
+</tr>
+<tr>
+    <td>feedback</td>
+    <td><textarea></textarea></td>
+</tr>
+<tr align="right">
+   <td><input type="submit"></td>
+</tr>
+</table>
+
+</body>
+</html>
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <div>TODO write content</div>
+    </body>
+</html>
